@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>30094.jpg</filename>
+	<path>C:\Users\Acer\object_detection_demo\object_detection_demo\data\images\30094.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TsisyArotava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>100</ymin>
+			<xmax>647</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

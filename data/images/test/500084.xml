@@ -1,0 +1,38 @@
+<annotation>
+  <folder>rect</folder>
+  <filename>500084.jpg</filename>
+  <path>D:\safidy priver\AI\ML kit\model archive cocoMN\object_detection_demo\object_detection_demo\data\images\rect\500084.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ManaoArotava</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>48</xmin>
+      <ymin>233</ymin>
+      <xmax>136</xmax>
+      <ymax>309</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ManaoArotava</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>221</xmin>
+      <ymin>228</ymin>
+      <xmax>288</xmax>
+      <ymax>288</ymax>
+    </bndbox>
+  </object>
+</annotation>

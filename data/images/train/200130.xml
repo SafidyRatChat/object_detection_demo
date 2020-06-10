@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>200130.jpg</filename>
+	<path>C:\Users\Acer\object_detection_demo\object_detection_demo\data\images\200130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ManaoArotava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>46</ymin>
+			<xmax>532</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>
